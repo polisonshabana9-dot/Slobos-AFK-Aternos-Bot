@@ -1,12 +1,12 @@
 {
-  "name": katta
+  "name": "afkbot"
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip":arom-eF2V.aternos.me
+    "ip": "arom-eF2V.aternos.me"
     "port": 38020
     "version": "",
     "try-creative": false
